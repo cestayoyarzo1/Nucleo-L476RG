@@ -7,9 +7,9 @@ To get set up:
 
 
 1 - Documentation for the board - 
-https://www.st.com/en/evaluation-tools/nucleo-l476rg.html
+https://www.st.com/en/evaluation-tools/nucleo-l476rg.html!
 
-2 - Documentation for the microcontroller, STM32L476RG:
+2 - Documentation for the microcontroller, STM32L476RG - 
 https://www.st.com/en/microcontrollers-microprocessors/stm32l476rg.html
 
 3 - IAR Embedded Workbench:
