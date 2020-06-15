@@ -2124,6 +2124,15 @@
         </group>
         <group>
             <name>User</name>
+            <file>
+                <name>$PROJ_DIR$\..\Src\hal.cpp</name>
+            </file>
+            <file>
+                <name>$PROJ_DIR$\..\Src\main.cpp</name>
+            </file>
+            <file>
+                <name>$PROJ_DIR$\..\Src\system.cpp</name>
+            </file>
         </group>
     </group>
     <group>
@@ -2447,7 +2456,4 @@
             </file>
         </group>
     </group>
-    <file>
-        <name>$PROJ_DIR$\main.cpp</name>
-    </file>
 </project>
