@@ -23,7 +23,8 @@ https://www.iar.com/support/user-guides/user-guide-iar-embedded-workbench-for-ar
       - ST link re-flash utility -https://www.segger.com/downloads/jlink/STLinkReflash
       
       
-
+Watch the video-tutorials:
+- 01 Introduction and Setup: https://www.youtube.com/watch?v=vGVYGIgUN-k&feature=youtu.be
 
 
 
