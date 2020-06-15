@@ -6,7 +6,7 @@ Development for the ST Nucleo L476RG Using C++ and IAR Embedded Workbench
 To get set up:
 
 
-1 - Documentation for the board:
+1 - Documentation for the board - 
 https://www.st.com/en/evaluation-tools/nucleo-l476rg.html
 
 2 - Documentation for the microcontroller, STM32L476RG:
