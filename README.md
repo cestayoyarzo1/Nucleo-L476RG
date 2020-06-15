@@ -18,8 +18,8 @@ http://netstorage.iar.com/SuppDB/Protected/PRODUPD/014683/EWARM-CD-8501-24811.ex
 4- IAR Docummentation for Arm - 
 https://www.iar.com/support/user-guides/user-guide-iar-embedded-workbench-for-arm/
 
-5 - Segger tools 
-      - J-link
+5 - Segger tools: 
+      - J-link - 
             https://www.segger.com/downloads/jlink/JLink_Windows.exe            
       - ST link re-flash utility -  
             https://www.segger.com/downloads/jlink/STLinkReflash
