@@ -21,7 +21,10 @@ https://www.iar.com/support/user-guides/user-guide-iar-embedded-workbench-for-ar
 5 - Segger tools 
       - J-link - https://www.segger.com/downloads/jlink/JLink_Windows.exe            
       - ST link re-flash utility -https://www.segger.com/downloads/jlink/STLinkReflash
-      
+   
+6 - STMCubeMx code generator - 
+https://www.st.com/en/development-tools/stm32cubemx.html
+
       
 Watch the video-tutorials:
 - 01 Introduction and Setup: https://www.youtube.com/watch?v=vGVYGIgUN-k&feature=youtu.be
