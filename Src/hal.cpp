@@ -95,7 +95,6 @@ void HAL::rcc()
   
   //System will be running from MSI trimmed from LSE
   
-  
   //Configure LSE
   BDCR = RCC->BDCR;
   if(BDCR != BACKUO_DOMAIN_REGISTER_DEFAULT_VALUE)
@@ -108,9 +107,9 @@ void HAL::rcc()
     while(!(RCC->BDCR & RCC_BDCR_LSERDY));        //Wait until LSE is Ready
     
     
-    bool test = RTC_ENABLED;
+    bool enabled = RTC_ENABLED;
     
-    if(test)
+    if(enabled)
     {
       RCC->BDCR |= RCC_BDCR_RTCSEL_0;             //LSE as RTC clock
       RCC->BDCR |= RCC_BDCR_RTCEN;                //Enable RTC
