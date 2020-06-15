@@ -2,9 +2,6 @@
 Development for the ST Nucleo L476RG Using C++ and IAR Embedded Workbench
 
 ![GitHub Logo](/Docs/img/NucleoL476RG.jpg)
-Format: ![Alt Text](url)
-
-
 
 To get set up:
 
